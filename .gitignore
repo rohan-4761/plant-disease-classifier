@@ -1,5 +1,2 @@
 #model
 app/trained_model/Plant_Disease_Prediction.h5
-
-#test-images
-test_images/
